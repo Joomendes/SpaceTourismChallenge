@@ -32,4 +32,5 @@ Projeto desenvolvido como solução para o desafio **Space Tourism** da platafor
 O projeto foi desenvolvido sem a utilização de frameworks ou bibliotecas de frontend, com o objetivo de praticar os fundamentos do desenvolvimento web, incluindo a criação de interfaces responsivas para diferentes tamanhos de tela, como computadores, tablets e celulares.
 
 ## Demonstração
+https://joomendes.github.io/SpaceTourismChallenge/
 
